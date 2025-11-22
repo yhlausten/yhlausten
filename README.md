@@ -6,7 +6,7 @@
 
 <div align="center" style="margin-top: -40px;">
   <a href="https://github.com/Chestnutye">
-    <img src="https://yehongliang.com/github/main.jpg" width="220" style="border: 4px solid #1a1a1a; border-radius: 8px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" alt="Profile Entity" />
+    <img src="https://yehongliang.com/github/austen.jpg" width="220" style="border: 4px solid #1a1a1a; border-radius: 8px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" alt="Profile Entity" />
   </a>
   <br/><br/>
   <img src="https://img.shields.io/badge/STATUS-DEPRECATED_NODE-inactive?style=for-the-badge&color=222222&labelColor=000000" height="28" />
